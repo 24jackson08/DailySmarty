@@ -1,0 +1,2 @@
+# DailySmarty
+Daily Smarty Project
